@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emojifier_Library</string>
+    <string name="no_faces_message">No Faces Detected</string>
+    <string name="no_emoji">No Emoji Expression Found</string>
+</resources>
